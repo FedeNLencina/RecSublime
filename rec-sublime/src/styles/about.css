@@ -1,0 +1,19 @@
+/*font-family: 'PT Sans', sans-serif; Texto
+font-family: 'IBM Plex Serif', serif; titulo*/
+
+.tarjeta{
+    height:100%
+}
+
+
+.tazaMuestra{
+    width:70%;
+    border-radius: 20px;
+
+}
+
+.remeraMuestra{
+    width:90%;
+    height:100%;
+    border-radius: 20px;
+}

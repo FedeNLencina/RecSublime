@@ -1,0 +1,17 @@
+.imgDiseño{
+    width:100%;
+    
+}
+
+
+@media (max-width: 576px){
+    .divDiseño{
+        padding: 0;
+    }
+}
+
+@media (min-width: 992px) { 
+    .divDiseño{
+        padding: 10px;
+    }
+}
