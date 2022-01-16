@@ -11,7 +11,9 @@
 
 @media (max-width: 576px){
     .linkBottom{
-        font-size: 11px;
+        font-size: 10px;
+        margin:0px;
+        padding:0px;
     }
     .navLinks{
         padding: 0;
