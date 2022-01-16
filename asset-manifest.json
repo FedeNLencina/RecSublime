@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RecSublime/static/css/main.63f0d2b7.css",
-    "main.js": "/RecSublime/static/js/main.175e7db6.js",
+    "main.css": "/RecSublime/static/css/main.e99cdeeb.css",
+    "main.js": "/RecSublime/static/js/main.1f2d11f4.js",
     "static/media/FondoHero3.jpg": "/RecSublime/static/media/FondoHero3.7a98bcd14a8c228f321a.jpg",
     "static/media/Tazas2.png": "/RecSublime/static/media/Tazas2.d3dc6ab33ab1896e42e8.png",
     "static/media/TazasMarrones.png": "/RecSublime/static/media/TazasMarrones.eb136d61e6e7b6a47909.png",
@@ -16,11 +16,11 @@
     "static/media/RemeraHombre2.png": "/RecSublime/static/media/RemeraHombre2.63121f3adb02c33eb2fc.png",
     "static/media/RecSublime2.jpeg": "/RecSublime/static/media/RecSublime2.4bfa41bbc3c0140f2b00.jpeg",
     "index.html": "/RecSublime/index.html",
-    "main.63f0d2b7.css.map": "/RecSublime/static/css/main.63f0d2b7.css.map",
-    "main.175e7db6.js.map": "/RecSublime/static/js/main.175e7db6.js.map"
+    "main.e99cdeeb.css.map": "/RecSublime/static/css/main.e99cdeeb.css.map",
+    "main.1f2d11f4.js.map": "/RecSublime/static/js/main.1f2d11f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.63f0d2b7.css",
-    "static/js/main.175e7db6.js"
+    "static/css/main.e99cdeeb.css",
+    "static/js/main.1f2d11f4.js"
   ]
 }
