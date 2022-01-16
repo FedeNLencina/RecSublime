@@ -7,19 +7,19 @@ function NavBarInferior(){
             <div className= "container">
                 <ul class="navLinks d-flex justify-content-center">
                     <li>
-                        <a class="nav-link active text-white linkBottom" aria-current="page" href="#">Home</a>
+                        <a class="text-white linkBottom" aria-current="page" href="#">Home</a>
                     </li>
                     <li>
-                        <a class="nav-link active text-white linkBottom" aria-current="page" href="#about">About</a>
+                        <a class="text-white linkBottom" aria-current="page" href="#about">About</a>
                     </li>
                     <li>
-                        <a class="nav-link active text-white linkBottom" href="#diseños">Diseños</a>
+                        <a class="text-white linkBottom" href="#diseños">Diseños</a>
                     </li>
                     <li>
-                        <a class="nav-link active text-white linkBottom" href="#https://www.instagram.com/rec_sublime_/?hl=es-la" target="_blank">Instagram</a>
+                        <a class="text-white linkBottom" href="#https://www.instagram.com/rec_sublime_/?hl=es-la" target="_blank">Instagram</a>
                     </li>
                     <li>
-                        <a class="nav-link active text-white linkBottom" href="#contact">Contacto</a>
+                        <a class="text-white linkBottom" href="#contact">Contacto</a>
                     </li>
                 </ul>
                 
