@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/https//FedeNLencina.github.io/RecSublime/static/css/main.6c644b24.css",
-    "main.js": "/https//FedeNLencina.github.io/RecSublime/static/js/main.d043429b.js",
-    "static/media/FondoHero3.jpg": "/https//FedeNLencina.github.io/RecSublime/static/media/FondoHero3.7a98bcd14a8c228f321a.jpg",
-    "static/media/Tazas2.png": "/https//FedeNLencina.github.io/RecSublime/static/media/Tazas2.d3dc6ab33ab1896e42e8.png",
-    "static/media/TazasMarrones.png": "/https//FedeNLencina.github.io/RecSublime/static/media/TazasMarrones.eb136d61e6e7b6a47909.png",
-    "static/media/TazaAnime1.jpg": "/https//FedeNLencina.github.io/RecSublime/static/media/TazaAnime1.a74f5c56f404e73a643b.jpg",
-    "static/media/Tazas3.png": "/https//FedeNLencina.github.io/RecSublime/static/media/Tazas3.92cff0a86fa2db97df2d.png",
-    "static/media/TazasBlancas.png": "/https//FedeNLencina.github.io/RecSublime/static/media/TazasBlancas.f68658f9a69d20507307.png",
-    "static/media/Remera1.jpg": "/https//FedeNLencina.github.io/RecSublime/static/media/Remera1.79d8bfaa1a537f13f5f5.jpg",
-    "static/media/TazaStich.png": "/https//FedeNLencina.github.io/RecSublime/static/media/TazaStich.f6aec5bd8ef01cdfa1d1.png",
-    "static/media/Remera2.jpg": "/https//FedeNLencina.github.io/RecSublime/static/media/Remera2.d941fac3f2b6c6b1a55d.jpg",
-    "static/media/TazaSanLorenzo.jpg": "/https//FedeNLencina.github.io/RecSublime/static/media/TazaSanLorenzo.7e5c6199370ff646f1d7.jpg",
-    "static/media/Remera3.jpg": "/https//FedeNLencina.github.io/RecSublime/static/media/Remera3.735a5b97f097d5da4cd1.jpg",
-    "static/media/RemeraHombre2.png": "/https//FedeNLencina.github.io/RecSublime/static/media/RemeraHombre2.63121f3adb02c33eb2fc.png",
-    "static/media/RecSublime2.jpeg": "/https//FedeNLencina.github.io/RecSublime/static/media/RecSublime2.4bfa41bbc3c0140f2b00.jpeg",
-    "index.html": "/https//FedeNLencina.github.io/RecSublime/index.html",
-    "main.6c644b24.css.map": "/https//FedeNLencina.github.io/RecSublime/static/css/main.6c644b24.css.map",
-    "main.d043429b.js.map": "/https//FedeNLencina.github.io/RecSublime/static/js/main.d043429b.js.map"
+    "main.css": "/RecSublime/static/css/main.63f0d2b7.css",
+    "main.js": "/RecSublime/static/js/main.175e7db6.js",
+    "static/media/FondoHero3.jpg": "/RecSublime/static/media/FondoHero3.7a98bcd14a8c228f321a.jpg",
+    "static/media/Tazas2.png": "/RecSublime/static/media/Tazas2.d3dc6ab33ab1896e42e8.png",
+    "static/media/TazasMarrones.png": "/RecSublime/static/media/TazasMarrones.eb136d61e6e7b6a47909.png",
+    "static/media/TazaAnime1.jpg": "/RecSublime/static/media/TazaAnime1.a74f5c56f404e73a643b.jpg",
+    "static/media/Tazas3.png": "/RecSublime/static/media/Tazas3.92cff0a86fa2db97df2d.png",
+    "static/media/TazasBlancas.png": "/RecSublime/static/media/TazasBlancas.f68658f9a69d20507307.png",
+    "static/media/Remera1.jpg": "/RecSublime/static/media/Remera1.79d8bfaa1a537f13f5f5.jpg",
+    "static/media/TazaStich.png": "/RecSublime/static/media/TazaStich.f6aec5bd8ef01cdfa1d1.png",
+    "static/media/Remera2.jpg": "/RecSublime/static/media/Remera2.d941fac3f2b6c6b1a55d.jpg",
+    "static/media/TazaSanLorenzo.jpg": "/RecSublime/static/media/TazaSanLorenzo.7e5c6199370ff646f1d7.jpg",
+    "static/media/Remera3.jpg": "/RecSublime/static/media/Remera3.735a5b97f097d5da4cd1.jpg",
+    "static/media/RemeraHombre2.png": "/RecSublime/static/media/RemeraHombre2.63121f3adb02c33eb2fc.png",
+    "static/media/RecSublime2.jpeg": "/RecSublime/static/media/RecSublime2.4bfa41bbc3c0140f2b00.jpeg",
+    "index.html": "/RecSublime/index.html",
+    "main.63f0d2b7.css.map": "/RecSublime/static/css/main.63f0d2b7.css.map",
+    "main.175e7db6.js.map": "/RecSublime/static/js/main.175e7db6.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c644b24.css",
-    "static/js/main.d043429b.js"
+    "static/css/main.63f0d2b7.css",
+    "static/js/main.175e7db6.js"
   ]
 }
