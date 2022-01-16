@@ -1,0 +1,19 @@
+.linkBottom{
+    font-size: 20px;
+}
+
+.copyright{
+    background-color: rgba(7, 6, 6, 0.603);
+}
+.copyright p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+@media (max-width: 576px){
+    .linkBottom{
+        font-size: 11px;
+    }
+    .navLinks{
+        padding: 0;
+    }
+}

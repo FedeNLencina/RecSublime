@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../styles/diseños.css';
+import './Diseños.css';
 
 function Diseños() {
     return (

@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../styles/navbar.css'
+import './NavegationBar.css'
 
 function NavegationBar(){
     return(
@@ -25,7 +25,7 @@ function NavegationBar(){
                                     <a class="nav-link active text-white fs-5 mx-3" href="#https://www.instagram.com/rec_sublime_/?hl=es-la" target="_blank">Instagram</a>
                                 </li>
                                 <li>
-                                    <a class="nav-link active text-white fs-5 mx-3" href="#contact">Contacto</a>
+                                    <a class="nav-link active text-white fs-4 mx-3" href="#contact">Contacto</a>
                                 </li>
                             </ul>
                         </div>

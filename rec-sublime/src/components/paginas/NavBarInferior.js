@@ -1,5 +1,5 @@
 import React from 'react';
-import '../../styles/navBarInferior.css';
+import './NavBarInferior.css';
 
 function NavBarInferior(){
     return (
